@@ -70,7 +70,4 @@ class Product {
         return this.#products;
       };
 
-
-
-
 }
