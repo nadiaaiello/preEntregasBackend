@@ -22,7 +22,6 @@ const __dirname = dirname(__filename);
 export default __dirname;
 
 
-
 // Configuracion de MULTER
 // Objeto de configuracion
 const storage = multer.diskStorage({
